@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arijit Bose
 
-### Co-founder @ Triomize
+### Co-founder @Triomize
 
 I'm building WordPress tools for the AI search era, helping website owners optimize for:
 
